@@ -1,6 +1,6 @@
 # Sales_Dashboard
 The Objective of the Sales Dashboard / Business Problem The objective of the report is to analyze and present comprehensive insights into sales, profit, orders, profit margin, and various comparisons. It aims to provide a clear understanding of key performance indicators and trends using Power BI.
-The report objectives can be summarized as follows:
+The report's objectives can be summarized as follows:
 
 1. Calculate Total Sales: Calculate and display the total sales value for the selected period, allowing users to understand the overall revenue generated.
 2. Calculate Profit: Calculate and visualize the total profit achieved based on the sales data, providing insights into the financial performance.
@@ -16,8 +16,8 @@ The report objectives can be summarized as follows:
 Conclusion of Power BI Sales Dashboard Project
 Conclusion for the year 2019:
 
-Sales decreased by more than 10%
-There is a drop in sales of all the top 7 Products
-4 Customers are leading to a drop in sales
-The profit margin in the Export channel is higher
+1. Sales decreased by more than 10%
+2. There is a drop in sales of all the top 7 Products
+3. Four Customers are leading to a drop in sales
+4. The profit margin in the Export channel is higher
 Similarly, we can derive other insights from the Report
